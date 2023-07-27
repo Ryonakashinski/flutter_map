@@ -2,7 +2,7 @@
 
 ## 紹介と使い方
 
-flutterでAndroidにGoogleを表示させました。
+flutterでAndroidにGoogle mapを表示させました。
 
 スマホの画面上で操作が可能となる地図です。
 
